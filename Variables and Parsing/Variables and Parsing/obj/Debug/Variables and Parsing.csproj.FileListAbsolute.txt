@@ -1,0 +1,7 @@
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\obj\Debug\Variables and Parsing.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\obj\Debug\Variables and Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\bin\Debug\Variables and Parsing.exe.config
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\bin\Debug\Variables and Parsing.exe
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\bin\Debug\Variables and Parsing.pdb
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\obj\Debug\Variables and Parsing.exe
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\Variables and Parsing\Variables and Parsing\obj\Debug\Variables and Parsing.pdb
