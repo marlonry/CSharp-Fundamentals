@@ -1,0 +1,7 @@
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\bin\Debug\While Loops and Complex Logic.exe.config
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\bin\Debug\While Loops and Complex Logic.exe
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\bin\Debug\While Loops and Complex Logic.pdb
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\obj\Debug\While Loops and Complex Logic.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\obj\Debug\While Loops and Complex Logic.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\obj\Debug\While Loops and Complex Logic.exe
+C:\Users\Marlon\Desktop\Coding\C#\C# Fundamentals\While Loops and Complex Logic\While Loops and Complex Logic\obj\Debug\While Loops and Complex Logic.pdb
